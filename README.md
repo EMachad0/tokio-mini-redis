@@ -1,4 +1,4 @@
-# Tokio Redis
+# Tokio Mini Redis
 
 This is a example of how to use tokio for tcp connections and async processing with an database
 
